@@ -19,7 +19,7 @@ Skills: C# / .NET / Hacking
 
 - 🔭 I’m currently working on CTF tools 
 - 🌱 I’m currently learning C/C++ 
-- 📫 How to reach me: [Telegram](t.me/HackcatDev) 
+- 📫 How to reach me: [Telegram](https://t.me/HackcatDev) 
 - ⚡ Fun fact: author of Telegram [kitten language pack](https://t.me/setlanguage/meowlng) 
 
 
